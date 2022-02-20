@@ -1,1 +1,0 @@
-# SignLanguage2Text
